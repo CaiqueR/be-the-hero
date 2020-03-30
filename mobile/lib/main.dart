@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mobile/Incidents/incidents.dart';
+
+import './pages/Incidents/incidents.dart';
 
 void main() => runApp(MyApp());
 
@@ -10,7 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        primarySwatch: primaryColorShades,
       ),
       home: IncidentsPage(),
     );
