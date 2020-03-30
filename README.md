@@ -16,15 +16,15 @@ O objetivo inicial era juntar NodeJs, ReactJs e React Native, mas coloquei outro
 
 ### O que é o Be The Hero?
 
-É um projeto que visa disponibilizar uma aplicação onde ONGS possam cadastrar casos reais de acidentes com animais e que precisem de ajuda para salvar os bichinhos e pessoas reais que gostariam de ajudar com alguma quantia em dinheiro para qualquer tipo de caso.
+É um projeto que visa disponibilizar uma aplicação, em que pessoas reais possam contribuir financeiramente para as ONGs, que estão cadastradas no aplicativo, com o intuito de ajudar a salvar os animais.
 
 ### Frontend
 
-O frontend foi feito somente para as ONGS se cadastrarem e cadastrem casos reais.
+O frontend foi feito somente para as ONGs se cadastrarem, bem como, cadastrar incidentes de animais.
 
 ### Mobile
 
-O mobile foi feito para as pessoas que gostariam de ajudar algum animalzinho com alguma quantia em dinheiro. Os usuários podem ver todos os casos que existem de todas as ONGS e escolher algum para ajudar.
+O mobile foi feito para as pessoas que gostariam de ajudar algum animalzinho com alguma quantia em dinheiro. Os usuários podem ver todos os casos que existentes das ONGs e escolher algum para ajudar.
 
 ## Telas
 
