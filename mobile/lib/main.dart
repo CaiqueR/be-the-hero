@@ -13,6 +13,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: primaryColorShades,
       ),
+      debugShowCheckedModeBanner: false,
       home: IncidentsPage(),
     );
   }
