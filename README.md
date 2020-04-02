@@ -47,7 +47,7 @@ O mobile foi feito para as pessoas que gostariam de ajudar algum animalzinho com
 Entre na pasta backend e execute o comando:
 `npm install`
 
-Depois de rodar o comando é só rodar o comando:
+Depois de executar o comando acima, é só executar o comando abaixo:
 `npm run dev`
 
 O backend já estará executando.
@@ -57,7 +57,7 @@ O backend já estará executando.
 Entre na pasta frontend e execute o comando:
 `npm install`
 
-Depois de rodar o comando é só rodar o comando:
+Depois de executar o comando acima, é só executar o comando abaixo:
 `npm start`
 
 O frontend já estará executando.
