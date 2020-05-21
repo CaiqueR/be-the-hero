@@ -1,1 +1,1 @@
-web: cd 
+web: yarn deploy
