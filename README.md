@@ -1,6 +1,6 @@
 ![Be the Hero](https://i.ibb.co/LJndbSt/logo-3x.png)
 
-Para acessar a versão web é só clicar [aqui](https://react-be-the-hero.herokuapp.com/)
+Para acessar a versão web é só clicar [aqui](https://caiquer.github.io/be-the-hero/)
 
 Este é um projeto feito na semana Omnistack 11 ministrado pelo tutor Diego Fernandes
 
